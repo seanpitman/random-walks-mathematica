@@ -2,7 +2,7 @@
 
 Simulate random walk processes based upon parameters provided by the user including starting point, number of steps, number of simulations, and step distribution. These simulations are made available both as data frames and as illustrative plots.
 
-A link to the project report can be found [here]().
+A link to the project report can be found [here](https://github.com/seanpitman/random-walks-mathematica/blob/master/doc/RandomWalksProjectSeanPitman.pdf).
 
 ## Getting Started
 
